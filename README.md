@@ -4,7 +4,7 @@
 <br>
 
 <div align=center>
-  <p style="font-weight: bold;">⛏️ tech stack ⛏️</p>
+  <h3>⛏️ tech stack ⛏️</h3>
   <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>&nbsp
@@ -19,7 +19,7 @@
 <br>
 
 <div align=center>
-  <p style="font-weight: bold;">⚙️ tool ⚙️</p>
+  <h3">⚙️ tool ⚙️</h3>
   <img src="https://img.shields.io/badge/discord-5865F2?style=flat&logo=discord&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>&nbsp
@@ -30,6 +30,6 @@
 <br>
 
 <div align=center>
-  <p style="font-weight: bold;">💻 git stats💻</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mjttong&theme=graywhite&show_icons=true&count_private=true&hide=stars" height="120px"/>&nbsp
+  <h3>💻 git stats💻</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=mjttong&theme=graywhite&show_icons=true&count_private=true&hide=stars"/>&nbsp
 </div>
