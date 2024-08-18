@@ -1,6 +1,6 @@
-<h2 align=center>
+<h1 align=center>
   Hi there 👋
-</h2>
+</h1>
 <br>
 
 <div align=center>
@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/discord-5865F2?style=flat&logo=discord&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>&nbsp
-  <br>
   <img src="https://img.shields.io/badge/intellij-000000?style=flat&logo=intellij&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/vscode-0078d7?style=flat&logo=visual-studio-code&logoColor=white"/>&nbsp
   </div>
@@ -31,5 +30,5 @@
 
 <div align=center>
   <h3>💻 git stats💻</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=mjttong&theme=graywhite&show_icons=true&count_private=true&hide=stars"/>&nbsp
+  <img src="https://github-readme-stats.vercel.app/api?username=mjttong&theme=graywhite&show_icons=true&count_private=true&hide=stars" height="150px"/>&nbsp
 </div>
