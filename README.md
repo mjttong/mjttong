@@ -31,6 +31,5 @@
 
 <div align=center>
   <p style="font-weight: bold;">💻 git stats💻</p>
-  ![minjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjttong&theme=graywhite&show_icons=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjttong&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=mjttong&theme=graywhite&show_icons=true&count_private=true&hide=stars" height="120px"/>&nbsp
 </div>
