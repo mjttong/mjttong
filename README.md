@@ -19,7 +19,7 @@
 <br>
 
 <div align=center>
-  <h3">⚙️ tool ⚙️</h3>
+  <h3>⚙️ tool ⚙️</h3>
   <img src="https://img.shields.io/badge/discord-5865F2?style=flat&logo=discord&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>&nbsp
