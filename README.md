@@ -23,5 +23,4 @@
 
 #### contect
 
-- Blog: [stdinout.com](https://stdinout.com)
 - email: [mjttong@gmail.com](mailto:mjttong@gmail.com)
